@@ -1,0 +1,39 @@
+
+- login
+
+- dashboard (menampilkan barang yang ingin di jual dari seluruh user)
+
+- lapak saya (berisi input data dan juga tabel apa semua barang yang sudah kita publish dengan opsi edit/hapus)
+- - jika klik tambah data -> masuk ke halaman tambah data
+- - jika klik edit data -> masuk ke halaman edit data
+- - jika hapus -> hapus data
+
+- profil (menampilakan form data user yang siap di edit) -> edit data user dan edit password
+
+- logout
+
+
+database
+- tabel user 
+	- id_user
+	- nama
+	- username
+	- password
+	- no hp
+	- email
+	- alamat
+
+- tabel barang
+	- id_barang
+	- nama_barang
+	- jenis -> alat rumah tangga, elektronik, alat tulis, makanan, minuman, 
+	- harga
+	- id_penjual
+	- stok
+	- tanggal_upload
+
+	
+
+
+
+

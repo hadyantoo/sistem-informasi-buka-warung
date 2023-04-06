@@ -1,0 +1,26 @@
+Nama Database = "warung"
+
+------ TABEL YANG DIBUTUHKAN -------
+
+1. tabel_barang 
+  - id_barang (int) ai
+  - nama_barang (varchar)
+  - jenis (varchar)
+  - harga (int)
+  - stok (int)
+  - tanggal_upload (date)
+  - id_penjual (int)
+
+
+2. id_user
+  - id_user (int) ai
+  - username (varchar)
+  - password (varchar)
+  - nama (varchar)
+  - no_hp (int)
+  - email (varchar)
+  - alamat (text)
+  
+  -----------------------------------
+  
+  
